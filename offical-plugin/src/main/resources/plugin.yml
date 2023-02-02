@@ -1,0 +1,10 @@
+name: Harrye
+version: '${version}'
+main: com.pleahmacaka.harrye.Harrye
+authors: [ PleahMaCaka ]
+
+commands:
+  rrtp:
+    usage: /rtp
+    permission: harrye.rtp
+    description: Teleports you to a random location
